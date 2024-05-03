@@ -18,7 +18,7 @@
 
 .glass{
     width: 1000px;
-    height: 620px;
+    height: 680px;
     box-shadow: 0 0 8px rgba(255,255,255,1);
     background-image: url(https://itbss.ac.id/wp-content/uploads/2021/12/Gedung-ITBSS.jpg);
     background-position: center;
@@ -31,7 +31,7 @@ nav {
 }
 
 .logo {
-    margin-top: 4px;
+    margin-top: -50px;
     margin-left: -20px;
     float: right;
     cursor: pointer;
